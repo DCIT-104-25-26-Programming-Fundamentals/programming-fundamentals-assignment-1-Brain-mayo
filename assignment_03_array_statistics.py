@@ -39,6 +39,7 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 
+<<<<<<< HEAD
 def calculate_sum(numbers):
     total = 0
     for num in numbers:
@@ -88,3 +89,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+>>>>>>> f768d22f123bb4f69b38c64b2e549acb06d4f276

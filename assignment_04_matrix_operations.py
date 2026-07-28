@@ -60,6 +60,7 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 
+<<<<<<< HEAD
 def read_matrix(rows, cols):
     matrix = []
     for i in range(rows):
@@ -178,3 +179,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+>>>>>>> f768d22f123bb4f69b38c64b2e549acb06d4f276

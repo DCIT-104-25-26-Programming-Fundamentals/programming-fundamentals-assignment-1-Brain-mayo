@@ -55,6 +55,7 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 
+<<<<<<< HEAD
 def print_table(num):
     print(f"Multiplication Table for {num}:")
     for i in range(1, 13):
@@ -98,3 +99,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+>>>>>>> f768d22f123bb4f69b38c64b2e549acb06d4f276

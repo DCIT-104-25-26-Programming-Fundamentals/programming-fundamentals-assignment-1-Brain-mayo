@@ -79,6 +79,7 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 
+<<<<<<< HEAD
 def add_task(tasks):
     task = input("Enter task: ")
     tasks.append(task)
@@ -147,3 +148,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+>>>>>>> f768d22f123bb4f69b38c64b2e549acb06d4f276

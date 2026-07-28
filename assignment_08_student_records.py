@@ -90,6 +90,7 @@
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
 
+<<<<<<< HEAD
 class Student:
     def __init__(self, name, student_id, scores):
         self.name = name
@@ -174,3 +175,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+>>>>>>> f768d22f123bb4f69b38c64b2e549acb06d4f276
